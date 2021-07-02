@@ -16,7 +16,7 @@ class App extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.limeAccent,
         appBar: AppBar(
           title: Text("STUDENT APP"),
         ),
